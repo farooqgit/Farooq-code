@@ -1,0 +1,2 @@
+# Farooq-code
+for learning
